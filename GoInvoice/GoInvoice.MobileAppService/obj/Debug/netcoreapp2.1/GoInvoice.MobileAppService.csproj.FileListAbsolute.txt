@@ -1,0 +1,14 @@
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.csproj.CoreCompileInputs.cache
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.RazorAssemblyInfo.cache
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.RazorAssemblyInfo.cs
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.AssemblyInfoInputs.cache
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.AssemblyInfo.cs
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\bin\Debug\netcoreapp2.1\GoInvoice.MobileAppService.deps.json
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\bin\Debug\netcoreapp2.1\GoInvoice.MobileAppService.runtimeconfig.json
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\bin\Debug\netcoreapp2.1\GoInvoice.MobileAppService.runtimeconfig.dev.json
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\bin\Debug\netcoreapp2.1\GoInvoice.MobileAppService.dll
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.RazorTargetAssemblyInfo.cache
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\bin\Debug\netcoreapp2.1\GoInvoice.MobileAppService.pdb
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.dll
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.pdb
+F:\Project Files\Projects\GoInvoice\GoInvoice\GoInvoice\GoInvoice.MobileAppService\obj\Debug\netcoreapp2.1\GoInvoice.MobileAppService.csprojAssemblyReference.cache
